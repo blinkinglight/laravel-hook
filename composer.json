@@ -1,5 +1,5 @@
 {
-  "name": "hongyukeji/laravel-hook",
+  "name": "blinkinglight/laravel-hook",
   "description": "The WordPress filter/action system in Laravel",
   "keywords": [
     "laravel",
@@ -14,7 +14,7 @@
     "hook",
     "hooks"
   ],
-  "homepage": "https://github.com/hongyukeji/laravel-hook",
+  "homepage": "https://github.com/blinkinglight/laravel-hook",
   "license": "MIT",
   "authors": [
     {
