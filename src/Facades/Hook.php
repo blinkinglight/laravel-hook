@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyukeji\Hook\Facades;
+namespace blinkinglight\Hook\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

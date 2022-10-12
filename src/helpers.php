@@ -1,6 +1,6 @@
 <?php
 
-use Hongyukeji\Hook\Hook;
+use blinkinglight\Hook\Hook;
 
 if (!function_exists('hook')) {
 

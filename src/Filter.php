@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyukeji\Hook;
+namespace blinkinglight\Hook;
 
 class Filter extends HookAbstract
 {

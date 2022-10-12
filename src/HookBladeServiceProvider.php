@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyukeji\Hook;
+namespace blinkinglight\Hook;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

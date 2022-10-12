@@ -1,20 +1,20 @@
 <?php
 
-namespace Hongyukeji\Hook;
+namespace blinkinglight\Hook;
 
 class Hook
 {
     /**
      * Holds all registered actions.
      *
-     * @var Hongyukeji\Hooks\Action
+     * @var blinkinglight\Hooks\Action
      */
     protected $action;
 
     /**
      * Holds all registered filters.
      *
-     * @var Hongyukeji\Hooks\Filter
+     * @var blinkinglight\Hooks\Filter
      */
     protected $filter;
 
@@ -30,7 +30,7 @@ class Hook
     /**
      * Get the action instance.
      *
-     * @return Hongyukeji\Hooks\Action
+     * @return blinkinglight\Hooks\Action
      */
     public function getAction()
     {
@@ -40,7 +40,7 @@ class Hook
     /**
      * Get the action instance.
      *
-     * @return Hongyukeji\Hooks\Filter
+     * @return blinkinglight\Hooks\Filter
      */
     public function getFilter()
     {

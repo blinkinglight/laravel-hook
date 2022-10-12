@@ -32,7 +32,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hongyukeji\\Hook\\": "src/"
+      "blinkinglight\\Hook\\": "src/"
     },
     "files": [
       "src/helpers.php"
@@ -46,11 +46,11 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Hongyukeji\\Hook\\HookServiceProvider",
-        "Hongyukeji\\Hook\\HookBladeServiceProvider"
+        "blinkinglight\\Hook\\HookServiceProvider",
+        "blinkinglight\\Hook\\HookBladeServiceProvider"
       ],
       "aliases": {
-        "Hook": "Hongyukeji\\Hook\\Facades\\Hooks"
+        "Hook": "blinkinglight\\Hook\\Facades\\Hook"
       }
     }
   }

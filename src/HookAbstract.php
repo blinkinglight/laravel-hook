@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyukeji\Hook;
+namespace blinkinglight\Hook;
 
 abstract class HookAbstract
 {

@@ -3,8 +3,8 @@
 namespace HookTests\Unit;
 
 use PHPUnit\Framework\TestCase;
-use Hongyukeji\Hook\Hook;
-use Hongyukeji\Hook\HashedCallable;
+use blinkinglight\Hook\Hook;
+use blinkinglight\Hook\HashedCallable;
 
 class HashedCallableTest extends TestCase
 {

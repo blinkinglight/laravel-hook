@@ -4,7 +4,7 @@ namespace HookTests\Unit;
 
 use HookTests\DummyClass;
 use PHPUnit\Framework\TestCase;
-use Hongyukeji\Hook\Hook;
+use blinkinglight\Hook\Hook;
 
 class FilterTest extends TestCase
 {

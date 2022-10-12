@@ -43,7 +43,7 @@ If you're using Laravel 5.5 or later you can start using the package at this poi
 3. Add the facade in `config/app.php`
 
 ```php
-    'Hook' => Hongyukeji\Hook\Facades\Hooks::class,
+    'Hook' => Hongyukeji\Hook\Facades\Hook::class,
 ```
 
 
